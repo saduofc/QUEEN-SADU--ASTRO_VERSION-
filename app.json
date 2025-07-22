@@ -1,7 +1,7 @@
 {
-  "name": "bot name",
-  "description": "Javascript WhatsApp bot made by bot name",
-  "logo": "https://pomf2.lain.la/f/uzu4feg.jpg",
+  "name": "QS_ASTRO_VERSION",
+  "description": "Javascript WhatsApp bot made by QS_ASTRO_VERSION",
+  "logo": "https://files.catbox.moe/ali8ed.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://files.catbox.moe/ali8ed.jpg",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "hellow im queen-sadu-astro version update more",
       "required": true
     }   
 },
